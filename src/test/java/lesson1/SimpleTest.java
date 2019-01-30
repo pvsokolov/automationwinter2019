@@ -21,7 +21,7 @@ public class SimpleTest {
 
         //3
         assertEquals(driver.getTitle(), "Home Page");
-
+//s
         //4
         driver.close();
     }
