@@ -23,6 +23,7 @@ public class SimpleTest {
         assertEquals(driver.getTitle(), "Home Page");
 //s
         //4
+        ///4
         driver.close();
     }
 }
