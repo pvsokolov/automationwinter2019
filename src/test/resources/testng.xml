@@ -7,4 +7,10 @@
 
         </classes>
     </test>
+    <test name="Regression">
+        <classes>
+            <class name="HomeWork2.HomeWork2"></class>
+
+        </classes>
+    </test>
 </suite>
